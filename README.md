@@ -11,3 +11,4 @@ A short description is provided, but we kindly refer to each repository for more
 | [Tensorflow ROS](https://github.com/tradr-project/tensorflow_ros) | An easy way how to link Tensorflow C++ API to ROS programs |
 | [Tracked vehicles in Gazebo](https://bitbucket.org/osrf/gazebo/pull-requests/2652/added-support-for-tracked-vehicles/diff) | Added support for tracked vehicles to Gazebo |
 | [Curves](https://github.com/ethz-asl/curves) | A library for curves generation and estimation. |
+| [Free Look Control](https://github.com/tradr-project/free-look-control) | Teleoperation mode "Free Look Control". |
